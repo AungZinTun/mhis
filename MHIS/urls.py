@@ -18,9 +18,11 @@ from django.urls import path, include
 from ntp import urls
 from django.shortcuts import redirect
 from .views import redirect_view
+from rest_framework import urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('ntp.urls')),
     path('', redirect_view ),
+    path('api-auth/', include('rest_framework.urls'))
 ]
