@@ -40,7 +40,7 @@ class Township(models.Model):
     township_name_eng= models.CharField(max_length=50)
     township_name_mmr= models.CharField(max_length=50)
     myainfo_ts_id= models.CharField(max_length=12)
-    source= models.CharField(max_length=3)
+    source= models.CharField(max_length=20)
     start_date= models.DateField()
     modified_end_date= models.DateField(blank=True, null=True)
     notification= models.CharField(max_length=50, blank=True, null=True)
