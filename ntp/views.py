@@ -10,7 +10,7 @@ class NotifyViewSet(viewsets.ModelViewSet):
     serializer_class=NotifySerializer
     queryset=Notify.objects.all()
     permission_classes=[IsAuthenticatedOrReadOnly]
-    renderer_classes = [JSONRenderer]
+    # renderer_classes = [JSONRenderer]
 
     def perform_create(self, serializer):
         serializer.save(created_by=self.request.user)
