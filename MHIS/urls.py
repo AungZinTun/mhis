@@ -19,10 +19,12 @@ from ntp import urls
 from django.shortcuts import redirect
 from .views import redirect_view
 from rest_framework import urls
+from core.views import IndexTemplateView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('ntp.urls')),
-    path('', redirect_view ),
+    path('', redirect_view),
+    path('notify/', IndexTemplateView.as_view()),
     path('api-auth/', include('rest_framework.urls'))
 ]
