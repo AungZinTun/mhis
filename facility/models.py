@@ -22,7 +22,7 @@ class District(models.Model):
     district_name_eng= models.CharField(max_length=50)
     district_name_mmr= models.CharField(max_length=50)
     myainfo_d_id= models.CharField(max_length=13, blank=True, null=True )
-    source= models.CharField(max_length=3)
+    source= models.CharField(max_length=20)
     start_date= models.DateField()
     modified_end_date= models.DateField(blank=True, null=True)
     notification= models.CharField(max_length=50, blank=True, null=True)
