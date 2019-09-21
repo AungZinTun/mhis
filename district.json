@@ -1,0 +1,1478 @@
+[
+    {
+        "model": "facility.district",
+        "pk": "MMR001D001",
+        "fields": {
+            "sr_pcode": "MMR001",
+            "district_name_eng": "Myitkyina",
+            "district_name_mmr": "မြစ်ကြီးနားခရိုင်",
+            "myainfo_d_id": "ASIMMR001D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR001D002",
+        "fields": {
+            "sr_pcode": "MMR001",
+            "district_name_eng": "Mohnyin",
+            "district_name_mmr": "မိုးညှင်းခရိုင်",
+            "myainfo_d_id": "ASIMMR001D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR001D003",
+        "fields": {
+            "sr_pcode": "MMR001",
+            "district_name_eng": "Bhamo",
+            "district_name_mmr": "ဗန်းမော်ခရိုင်",
+            "myainfo_d_id": "ASIMMR001D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR001D004",
+        "fields": {
+            "sr_pcode": "MMR001",
+            "district_name_eng": "Puta-O",
+            "district_name_mmr": "ပူတာအိုခရိုင်",
+            "myainfo_d_id": "ASIMMR001D004",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR002D001",
+        "fields": {
+            "sr_pcode": "MMR002",
+            "district_name_eng": "Loikaw",
+            "district_name_mmr": "လွိုင်ကော်ခရိုင်",
+            "myainfo_d_id": "ASIMMR002D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR002D002",
+        "fields": {
+            "sr_pcode": "MMR002",
+            "district_name_eng": "Bawlake",
+            "district_name_mmr": "ဘောလခဲခရိုင်",
+            "myainfo_d_id": "ASIMMR002D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR003D001",
+        "fields": {
+            "sr_pcode": "MMR003",
+            "district_name_eng": "Hpa-An",
+            "district_name_mmr": "ဘားအံခရိုင်",
+            "myainfo_d_id": "ASIMMR003D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR003D002",
+        "fields": {
+            "sr_pcode": "MMR003",
+            "district_name_eng": "Myawaddy",
+            "district_name_mmr": "မြဝတီခရိုင်",
+            "myainfo_d_id": "ASIMMR003D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR003D003",
+        "fields": {
+            "sr_pcode": "MMR003",
+            "district_name_eng": "Kawkareik",
+            "district_name_mmr": "ကော့ကရိတ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR003D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR003D004",
+        "fields": {
+            "sr_pcode": "MMR003",
+            "district_name_eng": "Hpapun",
+            "district_name_mmr": "ဖာပွန်ခရိုင်",
+            "myainfo_d_id": "ASIMMR003D004",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR004D001",
+        "fields": {
+            "sr_pcode": "MMR004",
+            "district_name_eng": "Falam",
+            "district_name_mmr": "ဖလမ်းခရိုင်",
+            "myainfo_d_id": "ASIMMR004D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR004D002",
+        "fields": {
+            "sr_pcode": "MMR004",
+            "district_name_eng": "Mindat",
+            "district_name_mmr": "မင်းတပ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR004D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": "2015-03-31",
+            "notification": null,
+            "notification_modified": "No. 987/2017",
+            "district_status": "Active",
+            "change_type": "Split",
+            "remark": "Another District is Matupi (MMR004D004)"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR004D003",
+        "fields": {
+            "sr_pcode": "MMR004",
+            "district_name_eng": "Hakha",
+            "district_name_mmr": "ဟားခါးခရိုင်",
+            "myainfo_d_id": "ASIMMR004D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR004D004",
+        "fields": {
+            "sr_pcode": "MMR004",
+            "district_name_eng": "Matupi",
+            "district_name_mmr": "မတူပီခရိုင်",
+            "myainfo_d_id": null,
+            "source": "GAD",
+            "start_date":"2017-07-24",
+            "modified_end_date": null,
+            "notification": "No. 987/2017",
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D001",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Sagaing",
+            "district_name_mmr": "စစ်ကိုင်းခရိုင်",
+            "myainfo_d_id": "ASIMMR005D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D002",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Shwebo",
+            "district_name_mmr": "ရွှေဘိုခရိုင်",
+            "myainfo_d_id": "ASIMMR005D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D003",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Monywa",
+            "district_name_mmr": "မုံရွာခရိုင်",
+            "myainfo_d_id": "ASIMMR005D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D004",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Katha",
+            "district_name_mmr": "ကသာခရိုင်",
+            "myainfo_d_id": "ASIMMR005D004",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": "2015-03-31",
+            "notification": null,
+            "notification_modified": "No. 1604/2018",
+            "district_status": "Active",
+            "change_type": "Split",
+            "remark": "Another District name is Kawlin (MMR005D011)"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D005",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Kale",
+            "district_name_mmr": "ကလေးခရိုင်",
+            "myainfo_d_id": "ASIMMR005D005",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D006",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Tamu",
+            "district_name_mmr": "တမူးခရိုင်",
+            "myainfo_d_id": "ASIMMR005D006",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D007",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Mawlaik",
+            "district_name_mmr": "မော်လိုက်ခရိုင်",
+            "myainfo_d_id": "ASIMMR005D007",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D008",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Hkamti",
+            "district_name_mmr": "ခန္တီးခရိုင်",
+            "myainfo_d_id": "ASIMMR005D008",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D009",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Yinmarbin",
+            "district_name_mmr": "ယင်းမာပင်ခရိုင်",
+            "myainfo_d_id": "ASIMMR005D009",
+            "source": "GAD",
+            "start_date":"2013-06-01",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": "New District formed with government notification issued on June 2013"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D010",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Kanbalu",
+            "district_name_mmr": "ကန့်ဘလူခရိုင်",
+            "myainfo_d_id": "ASIMMR005D010",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": "New District formed with government notification issued on March 2015"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR005D011",
+        "fields": {
+            "sr_pcode": "MMR005",
+            "district_name_eng": "Kawlin",
+            "district_name_mmr": "ကောလင်းခရိုင်",
+            "myainfo_d_id": null,
+            "source": "GAD",
+            "start_date":"2018-12-05",
+            "modified_end_date": null,
+            "notification": "No. 1604/2018",
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR006D001",
+        "fields": {
+            "sr_pcode": "MMR006",
+            "district_name_eng": "Dawei",
+            "district_name_mmr": "ထားဝယ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR006D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR006D002",
+        "fields": {
+            "sr_pcode": "MMR006",
+            "district_name_eng": "Myeik",
+            "district_name_mmr": "မြိတ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR006D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR006D003",
+        "fields": {
+            "sr_pcode": "MMR006",
+            "district_name_eng": "Kawthoung",
+            "district_name_mmr": "ကော့သောင်းခရိုင်",
+            "myainfo_d_id": "ASIMMR006D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR007D001",
+        "fields": {
+            "sr_pcode": "MMR007",
+            "district_name_eng": "Bago",
+            "district_name_mmr": "ပဲခူးခရိုင်",
+            "myainfo_d_id": "ASIMMR007D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR007D002",
+        "fields": {
+            "sr_pcode": "MMR007",
+            "district_name_eng": "Taungoo",
+            "district_name_mmr": "တောင်ငူခရိုင်",
+            "myainfo_d_id": "ASIMMR007D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR008D001",
+        "fields": {
+            "sr_pcode": "MMR008",
+            "district_name_eng": "Pyay",
+            "district_name_mmr": "ပြည်ခရိုင်",
+            "myainfo_d_id": "ASIMMR008D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR008D002",
+        "fields": {
+            "sr_pcode": "MMR008",
+            "district_name_eng": "Thayarwady",
+            "district_name_mmr": "သာယာဝတီခရိုင်",
+            "myainfo_d_id": "ASIMMR008D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR009D001",
+        "fields": {
+            "sr_pcode": "MMR009",
+            "district_name_eng": "Magway",
+            "district_name_mmr": "မကွေးခရိုင်",
+            "myainfo_d_id": "ASIMMR009D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR009D002",
+        "fields": {
+            "sr_pcode": "MMR009",
+            "district_name_eng": "Minbu",
+            "district_name_mmr": "မင်းဘူးခရိုင်",
+            "myainfo_d_id": "ASIMMR009D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR009D003",
+        "fields": {
+            "sr_pcode": "MMR009",
+            "district_name_eng": "Thayet",
+            "district_name_mmr": "သရက်ခရိုင်",
+            "myainfo_d_id": "ASIMMR009D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR009D004",
+        "fields": {
+            "sr_pcode": "MMR009",
+            "district_name_eng": "Pakokku",
+            "district_name_mmr": "ပခုက္ကူခရိုင်",
+            "myainfo_d_id": "ASIMMR009D004",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR009D005",
+        "fields": {
+            "sr_pcode": "MMR009",
+            "district_name_eng": "Gangaw",
+            "district_name_mmr": "ဂန့်ဂေါခရိုင်",
+            "myainfo_d_id": "ASIMMR009D005",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR010D001",
+        "fields": {
+            "sr_pcode": "MMR010",
+            "district_name_eng": "Mandalay",
+            "district_name_mmr": "မန္တလေးခရိုင်",
+            "myainfo_d_id": "ASIMMR010D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR010D002",
+        "fields": {
+            "sr_pcode": "MMR010",
+            "district_name_eng": "Pyinoolwin",
+            "district_name_mmr": "ပြင်ဦးလွင်ခရိုင်",
+            "myainfo_d_id": "ASIMMR010D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR010D003",
+        "fields": {
+            "sr_pcode": "MMR010",
+            "district_name_eng": "Kyaukse",
+            "district_name_mmr": "ကျောက်ဆည်ခရိုင်",
+            "myainfo_d_id": "ASIMMR010D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR010D004",
+        "fields": {
+            "sr_pcode": "MMR010",
+            "district_name_eng": "Myingyan",
+            "district_name_mmr": "မြင်းခြံခရိုင်",
+            "myainfo_d_id": "ASIMMR010D004",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR010D005",
+        "fields": {
+            "sr_pcode": "MMR010",
+            "district_name_eng": "Nyaung-U",
+            "district_name_mmr": "ညောင်ဦးခရိုင်",
+            "myainfo_d_id": "ASIMMR010D005",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR010D006",
+        "fields": {
+            "sr_pcode": "MMR010",
+            "district_name_eng": "Yamethin",
+            "district_name_mmr": "ရမည်းသင်းခရိုင်",
+            "myainfo_d_id": "ASIMMR010D006",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR010D007",
+        "fields": {
+            "sr_pcode": "MMR010",
+            "district_name_eng": "Meiktila",
+            "district_name_mmr": "မိတ္ထီလာခရိုင်",
+            "myainfo_d_id": "ASIMMR010D007",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR011D001",
+        "fields": {
+            "sr_pcode": "MMR011",
+            "district_name_eng": "Mawlamyine",
+            "district_name_mmr": "မော်လမြိုင်ခရိုင်",
+            "myainfo_d_id": "ASIMMR011D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR011D002",
+        "fields": {
+            "sr_pcode": "MMR011",
+            "district_name_eng": "Thaton",
+            "district_name_mmr": "သထုံခရိုင်",
+            "myainfo_d_id": "ASIMMR011D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR012D001",
+        "fields": {
+            "sr_pcode": "MMR012",
+            "district_name_eng": "Sittwe",
+            "district_name_mmr": "စစ်တွေခရိုင်",
+            "myainfo_d_id": "ASIMMR012D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR012D002",
+        "fields": {
+            "sr_pcode": "MMR012",
+            "district_name_eng": "Maungdaw",
+            "district_name_mmr": "မောင်တောခရိုင်",
+            "myainfo_d_id": "ASIMMR012D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR012D003",
+        "fields": {
+            "sr_pcode": "MMR012",
+            "district_name_eng": "Kyaukpyu",
+            "district_name_mmr": "ကျောက်ဖြူခရိုင်",
+            "myainfo_d_id": "ASIMMR012D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR012D004",
+        "fields": {
+            "sr_pcode": "MMR012",
+            "district_name_eng": "Thandwe",
+            "district_name_mmr": "သံတွဲခရိုင်",
+            "myainfo_d_id": "ASIMMR012D004",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR012D005",
+        "fields": {
+            "sr_pcode": "MMR012",
+            "district_name_eng": "Mrauk-U",
+            "district_name_mmr": "မြောက်ဦးခရိုင်",
+            "myainfo_d_id": "ASIMMR012D005",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR013D001",
+        "fields": {
+            "sr_pcode": "MMR013",
+            "district_name_eng": "Yangon (North)",
+            "district_name_mmr": "ရန်ကုန်(မြောက်ပိုင်း)",
+            "myainfo_d_id": "ASIMMR013D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR013D002",
+        "fields": {
+            "sr_pcode": "MMR013",
+            "district_name_eng": "Yangon (East)",
+            "district_name_mmr": "ရန်ကုန်(အရှေ့ပိုင်း)",
+            "myainfo_d_id": "ASIMMR013D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR013D003",
+        "fields": {
+            "sr_pcode": "MMR013",
+            "district_name_eng": "Yangon (South)",
+            "district_name_mmr": "ရန်ကုန်(တောင်ပိုင်း)",
+            "myainfo_d_id": "ASIMMR013D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR013D004",
+        "fields": {
+            "sr_pcode": "MMR013",
+            "district_name_eng": "Yangon (West)",
+            "district_name_mmr": "ရန်ကုန်(အနောက်ပိုင်း)",
+            "myainfo_d_id": "ASIMMR013D004",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR014D001",
+        "fields": {
+            "sr_pcode": "MMR014",
+            "district_name_eng": "Taunggyi",
+            "district_name_mmr": "တောင်ကြီးခရိုင်",
+            "myainfo_d_id": "ASIMMR014D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR014D002",
+        "fields": {
+            "sr_pcode": "MMR014",
+            "district_name_eng": "Loilen",
+            "district_name_mmr": "လွိုင်လင်ခရိုင်",
+            "myainfo_d_id": "ASIMMR014D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR014D003",
+        "fields": {
+            "sr_pcode": "MMR014",
+            "district_name_eng": "Langkho",
+            "district_name_mmr": "လင်းခေးခရိုင်",
+            "myainfo_d_id": "ASIMMR014D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D001",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Lashio",
+            "district_name_mmr": "လားရှိုးခရိုင်",
+            "myainfo_d_id": "ASIMMR015D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D002",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Muse",
+            "district_name_mmr": "မူဆယ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR015D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D003",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Kyaukme",
+            "district_name_mmr": "ကျောက်မဲခရိုင်",
+            "myainfo_d_id": "ASIMMR015D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D004",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Kunlong",
+            "district_name_mmr": "ကွမ်းလုံခရိုင်",
+            "myainfo_d_id": "ASIMMR015D004",
+            "source": "GAD",
+            "start_date":"2011-02-01",
+            "modified_end_date": "2014-01-01",
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Inactive",
+            "change_type": null,
+            "remark": "Deleted, GAD notification issued on Jan 2014"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D005",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Laukkaing",
+            "district_name_mmr": "လောက်ကိုင်ခရိုင်",
+            "myainfo_d_id": "ASIMMR015D005",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D006",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Hopang",
+            "district_name_mmr": "ဟိုပန်ခရိုင်",
+            "myainfo_d_id": "ASIMMR015D006",
+            "source": "GAD",
+            "start_date":"2011-08-01",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": "Split",
+            "remark": "Another distrct name is Matman District (MMR015D007), New District formed with government notification issued on August 2011 (District of Wa Division according to Constitution 2008)"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D007",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Matman",
+            "district_name_mmr": "မက်မန်းခရိုင်",
+            "myainfo_d_id": "ASIMMR015D007",
+            "source": "GAD",
+            "start_date":"2013-01-01",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": "New District formed with government notification issued on Jan 2013 (District of Wa Division according to Constitution 2008)"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D008",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Mongmit",
+            "district_name_mmr": "မိုးမိတ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR015D008",
+            "source": "GAD",
+            "start_date":"2014-01-01",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": "New District formed with government notification issued on Jan 2014"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D221",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Laukkaing (Kokang SAZ)",
+            "district_name_mmr": "လောက်ကိုင်-ကိုးကန့်အထူးဒေသ (၁)",
+            "myainfo_d_id": "ASIMMR015D221",
+            "source": "Field Sources",
+            "start_date":"2009-09-01",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D331",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Mong Maw (Wa SAD)",
+            "district_name_mmr": "မိုင်းမော-ဝအထူးဒေသ (၂)",
+            "myainfo_d_id": "ASIMMR015D331",
+            "source": "Field Sources",
+            "start_date":"2009-09-01",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR015D332",
+        "fields": {
+            "sr_pcode": "MMR015",
+            "district_name_eng": "Wein Kawng (Wein Kao) (Wa SAD)",
+            "district_name_mmr": "ဝိန်းကောင်-ဝအထူးဒေသ (၂)",
+            "myainfo_d_id": "ASIMMR015D332",
+            "source": "Field Sources",
+            "start_date":"2009-09-01",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR016D001",
+        "fields": {
+            "sr_pcode": "MMR016",
+            "district_name_eng": "Kengtung",
+            "district_name_mmr": "ကျိုင်းတုံခရိုင်",
+            "myainfo_d_id": "ASIMMR016D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR016D002",
+        "fields": {
+            "sr_pcode": "MMR016",
+            "district_name_eng": "Monghsat",
+            "district_name_mmr": "မိုင်းဆတ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR016D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR016D003",
+        "fields": {
+            "sr_pcode": "MMR016",
+            "district_name_eng": "Tachileik",
+            "district_name_mmr": "တာချီလိတ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR016D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR016D004",
+        "fields": {
+            "sr_pcode": "MMR016",
+            "district_name_eng": "Monghpyak",
+            "district_name_mmr": "မိုင်းဖြတ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR016D004",
+            "source": "GAD",
+            "start_date":"2011-02-01",
+            "modified_end_date": "2014-11-01",
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Inactive",
+            "change_type": null,
+            "remark": "Deleted, GAD notification issued on Nov 2014"
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR016D333",
+        "fields": {
+            "sr_pcode": "MMR016",
+            "district_name_eng": "Mong Pawk (Wa SAD)",
+            "district_name_mmr": "မိုင်းပေါက်-ဝအထူးဒေသ (၂)",
+            "myainfo_d_id": "ASIMMR016D333",
+            "source": "Field Sources",
+            "start_date":"2009-09-01",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR017D001",
+        "fields": {
+            "sr_pcode": "MMR017",
+            "district_name_eng": "Pathein",
+            "district_name_mmr": "ပုသိမ်ခရိုင်",
+            "myainfo_d_id": "ASIMMR017D001",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR017D002",
+        "fields": {
+            "sr_pcode": "MMR017",
+            "district_name_eng": "Hinthada",
+            "district_name_mmr": "ဟင်္သာတခရိုင်",
+            "myainfo_d_id": "ASIMMR017D002",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR017D003",
+        "fields": {
+            "sr_pcode": "MMR017",
+            "district_name_eng": "Myaungmya",
+            "district_name_mmr": "မြောင်းမြခရိုင်",
+            "myainfo_d_id": "ASIMMR017D003",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR017D004",
+        "fields": {
+            "sr_pcode": "MMR017",
+            "district_name_eng": "Labutta",
+            "district_name_mmr": "လပွတ္တာခရိုင်",
+            "myainfo_d_id": "ASIMMR017D004",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR017D005",
+        "fields": {
+            "sr_pcode": "MMR017",
+            "district_name_eng": "Maubin",
+            "district_name_mmr": "မအူပင်ခရိုင်",
+            "myainfo_d_id": "ASIMMR017D005",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR017D006",
+        "fields": {
+            "sr_pcode": "MMR017",
+            "district_name_eng": "Pyapon",
+            "district_name_mmr": "ဖျာပုံခရိုင်",
+            "myainfo_d_id": "ASIMMR017D006",
+            "source": "GAD",
+            "start_date":"2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR018D001",
+        "fields": {
+            "sr_pcode": "MMR018",
+            "district_name_eng": "Oke Ta Ra",
+            "district_name_mmr": "ဥတ္တရခရိုင်",
+            "myainfo_d_id": "ASIMMR018D001",
+            "source": "GAD",
+            "start_date":"2013-01-11",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "MMR018D002",
+        "fields": {
+            "sr_pcode": "MMR018",
+            "district_name_eng": "Det Khi Na",
+            "district_name_mmr": "ဒက္ခိဏခရိုင်",
+            "myainfo_d_id": "ASIMMR018D002",
+            "source": "GAD",
+            "start_date":"2013-01-11",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "model": "facility.district",
+        "pk": "ae",
+        "fields": {
+            "sr_pcode": "MMR001",
+            "district_name_eng": "ae",
+            "district_name_mmr": "ase",
+            "myainfo_d_id": "ae",
+            "source": "ase",
+            "start_date": "2019-09-21",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.district",
+        "pk": "aeasdf",
+        "fields": {
+            "sr_pcode": "MMR001",
+            "district_name_eng": "asdf",
+            "district_name_mmr": "asdf",
+            "myainfo_d_id": "asdf",
+            "source": "asd",
+            "start_date": "2019-09-21",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "district_status": "active",
+            "change_type": null,
+            "remark": null
+        }
+    }
+]

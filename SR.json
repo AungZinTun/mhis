@@ -1,0 +1,342 @@
+[
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR001",
+        "fields": {
+            "sr_name_eng": "Kachin",
+            "sr_name_mmr": "ကချင်ပြည်နယ်",
+            "myainfo_sd_id": "ASIMMR001",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR002",
+        "fields": {
+            "sr_name_eng": "Kayah",
+            "sr_name_mmr": "ကယားပြည်နယ်",
+            "myainfo_sd_id": "ASIMMR002",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR003",
+        "fields": {
+            "sr_name_eng": "Kayin",
+            "sr_name_mmr": "ကရင်ပြည်နယ်",
+            "myainfo_sd_id": "ASIMMR003",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR004",
+        "fields": {
+            "sr_name_eng": "Chin",
+            "sr_name_mmr": "ချင်းပြည်နယ်",
+            "myainfo_sd_id": "ASIMMR004",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR005",
+        "fields": {
+            "sr_name_eng": "Sagaing",
+            "sr_name_mmr": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+            "myainfo_sd_id": "ASIMMR005",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR006",
+        "fields": {
+            "sr_name_eng": "Tanintharyi",
+            "sr_name_mmr": "တနင်္သာရီတိုင်းဒေသကြီး",
+            "myainfo_sd_id": "ASIMMR006",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR007",
+        "fields": {
+            "sr_name_eng": "Bago (East)",
+            "sr_name_mmr": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)",
+            "myainfo_sd_id": "ASIMMR008",
+            "source": "NA",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR008",
+        "fields": {
+            "sr_name_eng": "Bago (West)",
+            "sr_name_mmr": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)",
+            "myainfo_sd_id": "ASIMMR008",
+            "source": "NA",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR009",
+        "fields": {
+            "sr_name_eng": "Magway",
+            "sr_name_mmr": "မကွေးတိုင်းဒေသကြီး",
+            "myainfo_sd_id": "ASIMMR009",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR010",
+        "fields": {
+            "sr_name_eng": "Mandalay",
+            "sr_name_mmr": "မန္တလေးတိုင်းဒေသကြီး",
+            "myainfo_sd_id": "ASIMMR010",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR011",
+        "fields": {
+            "sr_name_eng": "Mon",
+            "sr_name_mmr": "မွန်ပြည်နယ်",
+            "myainfo_sd_id": "ASIMMR011",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR012",
+        "fields": {
+            "sr_name_eng": "Rakhine",
+            "sr_name_mmr": "ရခိုင်ပြည်နယ်",
+            "myainfo_sd_id": "ASIMMR012",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR013",
+        "fields": {
+            "sr_name_eng": "Yangon",
+            "sr_name_mmr": "ရန်ကုန်တိုင်းဒေသကြီး",
+            "myainfo_sd_id": "ASIMMR013",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR014",
+        "fields": {
+            "sr_name_eng": "Shan (South)",
+            "sr_name_mmr": "ရှမ်းပြည်နယ် (တောင်)",
+            "myainfo_sd_id": "ASIMMR014",
+            "source": "NA",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR015",
+        "fields": {
+            "sr_name_eng": "Shan (North)",
+            "sr_name_mmr": "ရှမ်းပြည်နယ် (မြောက်)",
+            "myainfo_sd_id": "ASIMMR015",
+            "source": "NA",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR016",
+        "fields": {
+            "sr_name_eng": "Shan (East)",
+            "sr_name_mmr": "ရှမ်းပြည်နယ် (အရှေ့)",
+            "myainfo_sd_id": "ASIMMR016",
+            "source": "NA",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR017",
+        "fields": {
+            "sr_name_eng": "Ayeyarwady",
+            "sr_name_mmr": "ဧရာဝတီတိုင်းဒေသကြီး",
+            "myainfo_sd_id": "ASIMMR017",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR018",
+        "fields": {
+            "sr_name_eng": "Nay Pyi Taw",
+            "sr_name_mmr": "နေပြည်တော်",
+            "myainfo_sd_id": "ASIMMR018",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": null
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR111",
+        "fields": {
+            "sr_name_eng": "Bago",
+            "sr_name_mmr": "ပဲခူးတိုင်းဒေသကြီး",
+            "myainfo_sd_id": "ASIMMR111",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": "Just for the whole Bago Region"
+        }
+    },
+    {
+        "model": "facility.stateregion",
+        "pk": "MMR222",
+        "fields": {
+            "sr_name_eng": "Shan",
+            "sr_name_mmr": "ရှမ်းပြည်နယ်",
+            "myainfo_sd_id": "ASIMMR222",
+            "source": "GAD",
+            "start_date": "2015-03-31",
+            "modified_end_date": null,
+            "notification": null,
+            "notification_modified": null,
+            "sr_status": "Active",
+            "change_type": null,
+            "remark": "Just for the whole Shan State"
+        }
+    }
+]
