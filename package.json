@@ -46,6 +46,6 @@
     "> 1%",
     "last 2 versions"
   ],
-  "postinstall": "npm run build"
+  "postinstall": ["npm run build", "npm run serve"]
 }
 
