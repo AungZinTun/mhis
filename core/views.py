@@ -9,7 +9,7 @@ class IndexTemplateView(
 
     def get_template_names(self):
         if settings.DEBUG:
-            template_name = "index-dev.html"
+            template_name = "index.html"
         else:
             template_name = "index.html"
         return template_name
